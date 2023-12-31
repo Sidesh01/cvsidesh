@@ -1,0 +1,11 @@
+<div>
+    <h1>john</h1>
+    <h2>sidu</h2>
+</div>
+<script>
+
+    var div=document.querySelector("div")
+    div.prepend("hello")
+    div.prepend("hello")
+
+</script>
